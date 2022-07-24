@@ -1,0 +1,1 @@
+<a href="{{ route('parser') }}" class-"ml-4 text-sm text-gray-700 underline">Parser</a>
